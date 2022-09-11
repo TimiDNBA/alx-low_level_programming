@@ -3,7 +3,7 @@
 /**
  * main - print the string in the put function
  * Description: using the main function
- * This program prints "with proper grammar, but the outcome is a piece of art,"
+ * This program print "with proper grammar, but the outcome is a piece of art,"
  * Return: 0
  */
 
