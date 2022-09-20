@@ -4,7 +4,7 @@
 /**
  * main - check the code
  *
- * reset_to_98 - a function to updates the reference of a pointer
+ * Description: reset_to_98 function to updates the reference of a pointer
  * @n: pointer to be updated
  *
  * Return: Always 0
