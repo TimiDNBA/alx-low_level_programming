@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * reset_to_98 - points to an int parameter and
+ * update the value it points to 98
  *
- * Description: reset_to_98 function to updates the reference of a pointer
- * @n: pointer to be updated
+ * @n: pointer to n to be updated
  *
  * Return: Always 0
  */
