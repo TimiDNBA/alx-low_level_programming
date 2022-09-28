@@ -8,7 +8,7 @@
  * Return: pointer to beginning of needle in haystack or NULL if no match
  */
 
-char 8-strstr(char *haystack, char *needle)
+char *_strstr(char *haystack, char *needle)
 {
 	unsigned int = 0, j = 0;
 
