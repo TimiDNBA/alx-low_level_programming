@@ -24,7 +24,7 @@ int check_num(char *str)
 		}
 		count++;
 	}
-	return(1);
+	return (1);
 }
 /**
  * main - print the name of the program
